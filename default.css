@@ -76,10 +76,10 @@ nav li > ul > li:hover > ul  {
 }
 
 nav ul > li.sub{
-    background: url(ic_keyboard_arrow_down_white_18dp.png) right center no-repeat;
+    background: url() right center no-repeat;
 }
 
 nav ul > li.sub li.sub{
-    background: url(ic_keyboard_arrow_right_white_18dp.png) right center no-repeat;
+    background: url() right center no-repeat;
 }
 
