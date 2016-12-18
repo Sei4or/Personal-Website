@@ -30,7 +30,7 @@ nav ul li {
 }
 
 nav > ul > li > a {
-    color: #000;
+    color: #fff;
     display: block;
     line-height: 2em;
     padding: 0.5em 2em;
@@ -41,7 +41,7 @@ nav > ul > li > a {
 nav li > ul{
     display : none;
     margin-top:1px;
-    background-color: #000;
+    background-color: #fff;
 
 }
 
