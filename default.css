@@ -11,7 +11,7 @@ body{
 }
 nav {
     background-color: #333;
-    border: 1px solid #fff;
+    border: 1px solid #333;
     color: #fff;
     display: block;
     margin: 0;
@@ -30,7 +30,7 @@ nav ul li {
 }
 
 nav > ul > li > a {
-    color: #aaa;
+    color: #fff;
     display: block;
     line-height: 2em;
     padding: 0.5em 2em;
