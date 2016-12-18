@@ -11,7 +11,7 @@ body{
     background: #E0E0E0;
 }
 nav {
-    background-color: #fff;
+    background-color: #000;
     border: 1px solid #fff;
     color: #000;
     display: block;
@@ -42,7 +42,7 @@ nav > ul > li > a {
 nav li > ul{
     display : none;
     margin-top:1px;
-    background-color: #fff;
+    background-color: #000;
 
 }
 
