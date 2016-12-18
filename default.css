@@ -11,7 +11,7 @@ body{
 }
 nav {
     background-color: #fff;
-    border: 1px solid #333;
+    border: 1px solid #fff;
     color: #fff;
     display: block;
     margin: 0;
@@ -58,7 +58,7 @@ nav  li > ul li a {
 }
 
 nav li:hover {
-    background-color: #666;
+    background-color: #fff;
 }
 nav li:hover > ul{
     position:absolute;
