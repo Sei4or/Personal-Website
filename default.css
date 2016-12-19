@@ -4,7 +4,7 @@
     bottom: 10px;
 }
 #logo1{
-    position: absolute;
+    position: fixed;
     height: 50px;
     width: 200px;
 }
